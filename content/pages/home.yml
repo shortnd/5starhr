@@ -16,7 +16,7 @@ hero:
   title: |-
     **FREE 1 Hour**
 
-    HR Consultation
+    HR Consultation Test!
 trustedby:
   button: Read testimonials from our clients
   logos:
@@ -68,9 +68,8 @@ howwework:
     - name: Workplace Improvement
     - name: and much more...
   subtitle: How we work with you
-  title: >-
+  title: |-
     Focus on your mission  
-    
-    
+
     We'll focus on your HR
   url: /contact
